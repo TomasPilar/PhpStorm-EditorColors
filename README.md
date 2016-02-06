@@ -6,7 +6,9 @@ This package contains theme configuration for PhpStorm IDE. Color theme is inspi
 ## Instalation
 
 First, open PhpStorm IDE.
+
 Second, choose File | Import settings...
+
 Finally, choose `editor-colors.jar` and hit `OK`.
 
 Restart PhpStorm IDE and profit!
